@@ -1,0 +1,5 @@
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 18:32:52 on Dec 08,2025
+vlog -work work -l ./vlog_compile.log -override_timescale 1 ps / 1 ps ../src/simulation/modules/alu.v ../src/simulation/modules/register.v ../src/simulation/top.v 
+End time: 18:32:52 on Dec 08,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
