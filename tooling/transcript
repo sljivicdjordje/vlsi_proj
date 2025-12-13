@@ -1,8 +1,0 @@
-# vsim -c -lib work -wlf ./waveform.wlf -do "./config/run.tcl" work.top 
-# Start time: 18:32:52 on Dec 08,2025
-# ** Error: (vsim-3170) Could not find 'top'.
-#         Searched libraries:
-#             /home/andy/Documents/Faks/7. Semestar/VLSI/Projekat/tooling/work
-# Error loading design
-# End time: 18:32:52 on Dec 08,2025, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 0
